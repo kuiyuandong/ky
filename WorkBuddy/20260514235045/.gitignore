@@ -1,0 +1,18 @@
+# 过滤过程文件（截图、中间版本脚本等）
+*.png
+menu_setup_guide.html
+connect_menu.js
+create_menu_inject.js
+create_menu_ui.js
+create_menu_v2.js
+create_menu_v3.js
+create_menu_v4.js
+refresh_and_read.js
+screenshot_menu.js
+test_menu_api.py
+tts_video_voiceover.py
+
+# 视频号发布包
+视频号发布包_*
+视频号封面_*
+视频号TTS音频/
